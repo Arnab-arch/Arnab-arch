@@ -38,3 +38,13 @@ Currently transforming myself in 30 days with full-stack development, DSA practi
 - ☕ I take my coffee seriously. Code + Coffee = Therapy.
 - ✍️ Writing clears my mind — whether it’s journaling, tech notes, or storytelling.
 - ⚡ Currently transforming from EEE to Fullstack & Data Wizard 💻
+### 📊 GitHub Stats
+
+![Arnab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnab-arch&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-arch&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arnab-arch&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arnab-arch&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
